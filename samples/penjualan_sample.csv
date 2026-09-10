@@ -1,0 +1,9 @@
+tanggal,produk,kategori,wilayah,qty,harga,total
+2026-01-05,Kopi Arabika,Kategori A,Jakarta,10,50000,500000
+2026-01-12,Kopi Robusta,Kategori B,Bandung,4,40000,160000
+2026-02-03,Kopi Arabika,Kategori A,Jakarta,12,50000,600000
+2026-02-10,Kopi Robusta,Kategori B,Surabaya,3,40000,120000
+2026-03-02,Kopi Arabika,Kategori A,Jakarta,14,50000,700000
+2026-03-15,Kopi Robusta,Kategori B,Bandung,2,40000,80000
+2026-04-01,Kopi Arabika,Kategori A,Surabaya,15,50000,750000
+2026-04-20,Kopi Robusta,Kategori B,Jakarta,2,40000,80000

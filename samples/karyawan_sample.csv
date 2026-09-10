@@ -1,0 +1,9 @@
+nama,departemen,jabatan,gaji,tanggal_masuk,status
+Andi,Operasional,Staff,5000000,2022-01-10,Aktif
+Budi,Operasional,Staff,5200000,2022-03-01,Keluar
+Citra,Keuangan,Analis,8000000,2021-06-15,Aktif
+Dedi,Operasional,Supervisor,9000000,2020-02-20,Aktif
+Eka,Operasional,Staff,5100000,2023-01-05,Keluar
+Fajar,HR,Staff,6000000,2021-11-11,Aktif
+Gita,Keuangan,Staff,6500000,2022-08-08,Aktif
+Hadi,Operasional,Staff,5300000,2023-05-05,Keluar

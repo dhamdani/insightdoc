@@ -1,0 +1,9 @@
+tanggal,tipe,kategori,nominal,keterangan
+2026-01-05,masuk,penjualan,10000000,Omzet Jan
+2026-01-10,keluar,operasional,6000000,Sewa+gaji Jan
+2026-02-05,masuk,penjualan,9000000,Omzet Feb
+2026-02-10,keluar,operasional,7500000,Operasional Feb naik
+2026-03-05,masuk,penjualan,8500000,Omzet Mar
+2026-03-10,keluar,operasional,8000000,Operasional Mar naik
+2026-04-05,masuk,penjualan,8000000,Omzet Apr
+2026-04-10,keluar,operasional,8500000,Defisit Apr
